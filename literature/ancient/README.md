@@ -2,4 +2,4 @@
 ## 诗歌
 ## 散文
 ## 小说
-## 戏剧
+## 戏剧[](literature/ancient/drama.md)
