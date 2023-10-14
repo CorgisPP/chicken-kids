@@ -42,7 +42,7 @@
 * [王昌龄](poet/wangchangling.md)
 * [王之涣](poet/wangzhihuan.md)
 * [王翰](poet/wanghan.md)
-* [崔灏](poet/cuihao.md)
+* [崔颢](poet/cuihao.md)
 * [李颀](poet/liqi.md)
 
 ### 山水田园诗派：王孟韦柳
