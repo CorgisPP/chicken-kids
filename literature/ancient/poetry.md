@@ -37,7 +37,6 @@
 * [王绩](poet/wangji.md)
 * [陈子昂](poet/chenziang.md)
 * [宋之问](poet/songzhiwen.md)
-* [刘希夷](poet/liuxiyi.md)
 * [王湾](poet/wangwan.md)
 * [张九龄](poet/zhangjiuling.md)
 
