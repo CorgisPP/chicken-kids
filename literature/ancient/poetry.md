@@ -68,7 +68,7 @@
 > 代宗大历时期-文宗太和时期约70年：继续繁荣期
 ### 大历诗风
 > 由雄浑的风骨气概转向淡远的情致，以表现宁静淡泊的生活情趣，虽有风味而气骨顿衰。
-* **[刘长卿](https://zh.wikipedia.org/wiki/刘长卿)**
+* **[刘长（zhǎng）卿](https://zh.wikipedia.org/wiki/刘长卿)**
   * _[长沙过贾谊宅](https://www.shicile.com/detail/410298951946)（九年级上）_
   * _[逢雪宿芙蓉山主人](https://www.shicile.com/detail/5860282682410)_
   * _[送灵澈上人](https://www.shicile.com/detail/4880094487711)_
@@ -90,39 +90,39 @@
 
 ### 韩孟诗派
 > 主张“不平则鸣”，苦吟以抒愤，形成一种奇崛险峻的风格，力求矫正大历以来的纤弱诗风，追求新的变化。
-* [韩愈](poet/hanyu.md)
-* [孟郊](poet/mengjiao.md)
-* [贾岛](poet/jiadao.md)
-* [李贺](poet/lihe.md)
+* **[韩愈](https://zh.wikipedia.org/wiki/韩愈)**
+* **[孟郊](https://zh.wikipedia.org/wiki/孟郊)**（诗囚）
+* **[贾岛](https://zh.wikipedia.org/wiki/贾岛)**（诗奴）
+* **[李贺](https://zh.wikipedia.org/wiki/李贺)**（诗鬼）
 
 ### 新乐府诗派
 > 不再重视音律，而是反映社会现实，口号“文章合为时而著，歌诗合为事而作”——白居易《与元九书》。
-* [白居易](poet/baijuyi.md)
-* [元稹](poet/yuanzhen.md)
-* [张籍](poet/zhangji.md)
-* [王建](poet/wangjian.md)
-* [李绅](poet/lishen.md)
+* **[白居易](https://zh.wikipedia.org/wiki/白居易)**（诗王/诗魔）
+* **[元稹](https://zh.wikipedia.org/wiki/元稹)**
+* **[张籍](https://zh.wikipedia.org/wiki/张籍)**（诗肠）
+* **[王建](https://zh.wikipedia.org/wiki/王建_(唐朝))**
+* **[李绅](https://zh.wikipedia.org/wiki/李紳)**
 
 ### 其它
-* [刘禹锡](poet/liuyuxi.md)
-* [崔护](poet/cuihu.md)
-* [张志和](poet/zhangzhihe.md)
-* [胡令能](poet/hulingneng.md)
+* **[刘禹锡](https://zh.wikipedia.org/wiki/刘禹锡)**（诗豪）
+* **[崔护](https://zh.wikipedia.org/wiki/崔护)**
+* **[张志和](https://zh.wikipedia.org/wiki/張志和_(唐朝))**
+* **[胡令能](https://zh.wikipedia.org/wiki/胡令能)**
 
 ## 晚唐
 > 文宗开成时期-唐朝灭亡末期约70年：衰落期
 ### 小李杜
-* [杜牧](poet/dumu.md)
-* [李商隐](poet/lishangyin.md)
+* **[杜牧](https://zh.wikipedia.org/wiki/杜牧)**
+* **[李商隐](https://zh.wikipedia.org/wiki/李商隐)**
 
 ### 其它
-* [温庭筠](poet/wentingyun.md)
-* [许浑](poet/xuhun.md)
-* [陈陶](poet/chentao.md)
-* [罗隐](poet/luoyin.md)
-* [黄巢](poet/huangchao.md)
-* [韦庄](poet/weizhuang.md)
-* [林杰](poet/linjie.md)
+* **[温庭筠](https://zh.wikipedia.org/wiki/温庭筠)**
+* **[许浑](https://zh.wikipedia.org/wiki/许浑)**
+* **[陈陶](https://zh.wikipedia.org/wiki/陈陶)**
+* **[罗隐](https://zh.wikipedia.org/wiki/羅隱)**
+* **[黄巢](https://zh.wikipedia.org/wiki/黄巢)**
+* **[韦庄](https://zh.wikipedia.org/wiki/韦庄)**
+* **[林杰](https://baike.baidu.com/item/林杰/1752845?fr=aladdin)**
 
 # 宋
 
