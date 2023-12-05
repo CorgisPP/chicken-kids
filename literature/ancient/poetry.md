@@ -68,12 +68,25 @@
 > 代宗大历时期-文宗太和时期约70年：继续繁荣期
 ### 大历诗风
 > 由雄浑的风骨气概转向淡远的情致，以表现宁静淡泊的生活情趣，虽有风味而气骨顿衰。
-* [刘长卿](poet/liuzhangqing.md)
+* **[刘长卿](https://zh.wikipedia.org/wiki/刘长卿)**
+  * _[长沙过贾谊宅](https://www.shicile.com/detail/410298951946)（九年级上）_
+  * _[逢雪宿芙蓉山主人](https://www.shicile.com/detail/5860282682410)_
+  * _[送灵澈上人](https://www.shicile.com/detail/4880094487711)_
 * **[张继](https://zh.wikipedia.org/wiki/張繼_(唐朝))**
-  * _[枫桥夜泊](https://www.shicile.com/detail/7520289900694)(五年级上)_
-* [韩翃](poet/hanhong.md)
-* [钱起](poet/qianqi.md)
-* [李益](poet/liyi.md)
+  * _[枫桥夜泊](https://www.shicile.com/detail/7520289900694)（五年级上）_
+* **[司空曙](https://zh.wikipedia.org/wiki/司空曙)**
+  * _[江村即事](https://www.shicile.com/detail/6330107052411)_
+  * _[喜外弟卢纶见宿](https://www.shicile.com/detail/6560292101267)_
+* **[卢纶](https://zh.wikipedia.org/wiki/卢纶)**
+  * _[塞下曲·其三](https://www.shicile.com/detail/950297169937)（四年级下）_
+  * _[塞下曲·其二](https://www.shicile.com/detail/6130253825223)_
+* **[韩翃](https://zh.wikipedia.org/wiki/韓翃)**
+  * _[寒食](https://www.shicile.com/detail/240297310755)（六年级下）_
+* **[钱起](https://zh.wikipedia.org/wiki/錢起)**
+  * _[省试湘灵鼓瑟](https://www.shicile.com/detail/140287443770)_
+* **[李益](https://zh.wikipedia.org/wiki/李益)**
+  * _[夜上受降城闻笛](https://www.shicile.com/detail/2360094039583)（七年级上）_
+  * _[喜见外弟又言别](https://www.shicile.com/detail/5750219035397)_
 
 ### 韩孟诗派
 > 主张“不平则鸣”，苦吟以抒愤，形成一种奇崛险峻的风格，力求矫正大历以来的纤弱诗风，追求新的变化。
