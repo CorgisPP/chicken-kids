@@ -70,7 +70,7 @@
 > 由雄浑的风骨气概转向淡远的情致，以表现宁静淡泊的生活情趣，虽有风味而气骨顿衰。
 * [刘长卿](poet/liuzhangqing.md)
 * **[张继](https://zh.wikipedia.org/wiki/張繼_(唐朝))**
-  * _[枫桥夜泊](https://zh.wikisource.org/wiki/楓橋夜泊)_
+  * _[枫桥夜泊](https://www.shicile.com/detail/7520289900694)(五年级上)_
 * [韩翃](poet/hanhong.md)
 * [钱起](poet/qianqi.md)
 * [李益](poet/liyi.md)
