@@ -5,10 +5,20 @@
 > 唐朝建立初期-玄宗先天时期约100年：过渡和创新期
 ### 初唐四杰：王杨卢骆
 > 年少时享有“神童”的美誉，长大后却仕途坎坷、命运悲惨，反对华丽颓废的宫廷诗，提倡清新刚健、积极进取的诗歌风格
-* [王勃](poet/wangbo.md)
-* [杨炯](poet/yangjiong.md)
-* [卢照邻](poet/luzhaolin.md)
-* [骆宾王](poet/luobinwang.md)
+* **[王勃](https://zh.wikipedia.org/wiki/王勃)**（诗杰，“初唐四杰”之冠）
+  * _[送杜少府之任蜀州](https://www.shicile.com/detail/5130000848409)（八年级下）_
+  * _[山中](https://www.shicile.com/detail/8360216912235)_
+  * _[蜀中九日](https://www.shicile.com/detail/4580002189681)_
+  * _[滕王阁诗](https://www.shicile.com/detail/8620123262430)_
+* **[杨炯](https://zh.wikipedia.org/wiki/杨炯)**
+  * _[从军行](https://www.shicile.com/detail/9690001561835)_
+  * _[巫峡](https://www.shicile.com/detail/7630221631583)_
+* **[卢照邻](https://zh.wikipedia.org/wiki/卢照邻)**
+  * _[长安古意](https://www.shicile.com/detail/6330123269043)_
+* **[骆宾王](https://zh.wikipedia.org/wiki/骆宾王)**
+  * _[咏鹅](https://www.shicile.com/detail/4590001052634)（一年级上）_
+  * _[于易水送人](https://www.shicile.com/detail/1820260330859)_
+  * _[咏蝉](https://www.shicile.com/detail/5890217377090)_
 
 ### 初唐书画四大家
 ```
@@ -90,7 +100,7 @@
 
 ### 韩孟诗派
 > 主张“不平则鸣”，苦吟以抒愤，形成一种奇崛险峻的风格，力求矫正大历以来的纤弱诗风，追求新的变化。
-* **[韩愈](https://zh.wikipedia.org/wiki/韩愈)**
+* **[韩愈](https://zh.wikipedia.org/wiki/韩愈)**：文起八代之衰。——苏轼《潮州韩文公庙碑》
   * _[早春呈水部张十八员外](https://www.shicile.com/detail/8170298182504)（六年级下）_
   * _[晚春·其一](https://www.shicile.com/detail/5070000090248)（七年级下）_
   * _[左迁至蓝关示侄孙湘](https://www.shicile.com/detail/2450299063978)（九年级上）_
@@ -114,7 +124,7 @@
 
 ### 新乐府诗派
 > 不再重视音律，而是反映社会现实，口号“文章合为时而著，歌诗合为事而作”——白居易《与元九书》。
-* **[白居易](https://zh.wikipedia.org/wiki/白居易)**（诗王/诗魔）
+* **[白居易](https://zh.wikipedia.org/wiki/白居易)**（诗王/诗魔）：童子解吟长恨曲，胡儿能唱琵琶篇。——唐宣宗李忱《吊白居易》
   * _[池上](https://www.shicile.com/detail/2790217422214)（一年级下）_
   * _[赋得古原草送别](https://www.shicile.com/detail/330003226366)（二年级下）_
   * _[忆江南](https://www.shicile.com/detail/320106051514)（三年级下）_
@@ -168,16 +178,58 @@
 > 文宗开成时期-唐朝灭亡末期约70年：衰落期
 ### 小李杜
 * **[杜牧](https://zh.wikipedia.org/wiki/杜牧)**
+  * _[山行](https://www.shicile.com/detail/4010217404320)（三年级上）_
+  * _[清明](https://www.shicile.com/detail/1830298250190)（三年级下）_
+  * _[江南春](https://www.shicile.com/detail/9750003211195)（六年级上）_
+  * _[秋夕](https://www.shicile.com/detail/4560298994347)（七年级上）_
+  * _[泊秦淮](https://www.shicile.com/detail/7250217027768)（七年级下）_
+  * _[赤壁](https://www.shicile.com/detail/5210094660038)（八年级上）_
+  * _[题乌江亭](https://www.shicile.com/detail/2220000004668)_
+  * _[寄扬州韩绰判官](https://www.shicile.com/detail/8980298940276)_
+  * _[过华清宫绝句·其一](https://www.shicile.com/detail/920210086841)_
+  * _[遣怀](https://www.shicile.com/detail/5060095433759)_
+  * _[赠别·其一](https://www.shicile.com/detail/3770216161465)_
 * **[李商隐](https://zh.wikipedia.org/wiki/李商隐)**
+  * _[嫦娥](https://www.shicile.com/detail/5180263099372)（四年级上）_
+  * _[七夕](https://www.shicile.com/detail/7240135843468)（七年级上）_
+  * _[夜雨寄北](https://www.shicile.com/detail/8040299312938)（七年级上）_
+  * _[贾生](https://www.shicile.com/detail/7890000856189)（七年级下）_
+  * _[无题](https://www.shicile.com/detail/4490299351449)（九年级上）_
+  * _[锦瑟](https://www.shicile.com/detail/8650299180678)（高中选择性必修中）_
+  * _[乐游原](https://www.shicile.com/detail/2550299151892)_
+  * _[无题](https://www.shicile.com/detail/4440299198183)_
 
 ### 其它
 * **[温庭筠](https://zh.wikipedia.org/wiki/温庭筠)**
+  * _[商山早行](https://www.shicile.com/detail/8140094452701)（九年级上）_
+  * _[望江南](https://www.shicile.com/detail/8800217061611)（高中课标）_
+  * _[菩萨蛮](https://www.shicile.com/detail/8990001049522)_
+  * _[新添声杨柳枝·其二](https://www.shicile.com/detail/7250299357284)_
 * **[许浑](https://zh.wikipedia.org/wiki/许浑)**
+  * _[咸阳城东楼](https://www.shicile.com/detail/2020299133609)（九年级上）_
+  * _[塞下曲](https://www.shicile.com/detail/1820285494491)_
+  * _[谢亭送别](https://www.shicile.com/detail/4340095574966)_
 * **[陈陶](https://zh.wikipedia.org/wiki/陈陶)**
+  * _[陇西行·其二](https://www.shicile.com/detail/2070095488219)_
 * **[罗隐](https://zh.wikipedia.org/wiki/羅隱)**
+  * _[蜂](https://www.shicile.com/detail/4500297174216)（四年级下）_
+* **[皮日休](https://zh.wikipedia.org/wiki/皮日休)**
+  * _[天竺寺八月十五日夜桂子](https://www.shicile.com/detail/750254852183)_
+  * _[汴河怀古·其二](https://www.shicile.com/detail/6570298969062)_
+* **[聂夷中](https://zh.wikipedia.org/wiki/聶夷中)**
+  * _[咏田家](https://www.shicile.com/detail/6080216440378)_
+* **[杜荀鹤](https://zh.wikipedia.org/wiki/杜荀鹤)**
+  * _[小松](https://www.shicile.com/detail/7430216032317)_
+  * _[题弟侄书堂](https://www.shicile.com/detail/9950171426076)_
 * **[黄巢](https://zh.wikipedia.org/wiki/黄巢)**
+  * _[不第后赋菊](https://www.shicile.com/detail/7660216925072)_
+  * _[题菊花](https://www.shicile.com/detail/2550095934013)_
 * **[韦庄](https://zh.wikipedia.org/wiki/韦庄)**
+  * _[秦妇吟](https://www.shicile.com/detail/6160020778435)：“乐府三绝”之一_
+  * _[台城](https://www.shicile.com/detail/7670297175772)_
+  * _[菩萨蛮](https://www.shicile.com/detail/1250297173438)：组词五首，是宋词奠基之作_
 * **[林杰](https://baike.baidu.com/item/林杰/1752845?fr=aladdin)**
+  * _[乞巧](https://www.shicile.com/detail/5130297469467)（五年级上）_
 
 # 宋
 
