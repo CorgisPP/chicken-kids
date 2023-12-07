@@ -5,7 +5,7 @@
 > 唐朝建立初期-玄宗先天时期约100年：过渡和创新期
 ### 初唐四杰：王杨卢骆
 > 年少时享有“神童”的美誉，长大后却仕途坎坷、命运悲惨，反对华丽颓废的宫廷诗，提倡清新刚健、积极进取的诗歌风格
-* **[王勃](https://zh.wikipedia.org/wiki/王勃)**（诗杰，“初唐四杰”之冠）
+* **[王勃](https://zh.wikipedia.org/wiki/王勃)**（诗杰，初唐四杰之冠）
   * _[送杜少府之任蜀州](https://www.shicile.com/detail/5130000848409)（八年级下）_
   * _[山中](https://www.shicile.com/detail/8360216912235)_
   * _[蜀中九日](https://www.shicile.com/detail/4580002189681)_
@@ -21,58 +21,111 @@
   * _[咏蝉](https://www.shicile.com/detail/5890217377090)_
 
 ### 初唐书画四大家
-```
-楷书四大家：欧阳询、颜真卿、柳公权、赵孟頫
-```
-* 欧阳询
-* [虞世南](poet/yushinan.md)
-* 褚遂良
-* 薛稷
+> 楷书四大家：欧阳询、[颜真卿](https://zh.wikipedia.org/wiki/颜真卿)、[柳公权](https://zh.wikipedia.org/wiki/柳公權)、[赵孟頫](https://zh.wikipedia.org/wiki/趙孟頫)
+* **[欧阳询](https://zh.wikipedia.org/wiki/欧阳询)**
+* **[虞世南](https://zh.wikipedia.org/wiki/虞世南)**
+  * _[蝉](https://www.shicile.com/detail/3730005120407)（五年级上）_
+* **[褚遂良](https://zh.wikipedia.org/wiki/褚遂良)**
+* **[薛稷](https://zh.wikipedia.org/wiki/薛稷)**
 
 ### 文章四友
 > 起初都是宫廷诗人，后因张易之兄弟牵连或贬官或流放
-* [李峤](poet/liqiao.md)
-* 苏味道
-* 崔融
-* [杜审言](poet/dushenyan.md)
+* **[李峤](https://zh.wikipedia.org/wiki/李嶠)**
+  * _[风](https://www.shicile.com/detail/10096073275)（一年级上）_
+* **[苏味道](https://zh.wikipedia.org/wiki/苏味道)**
+* **[崔融](https://zh.wikipedia.org/wiki/崔融_(国子司业))**
+* **[杜审言](https://zh.wikipedia.org/wiki/杜审言)**
 
 ### 吴中四士
 > 性格狂放，诗多具有浪漫主义色彩，透露出新的气息、新的情趣。
-* [张旭](poet/zhangxu.md)
-* [张若虚](poet/zhangruoxu.md)
-* [贺知章](poet/hezhizhang.md)
-* 包融
+* **[张旭](https://zh.wikipedia.org/wiki/張旭)**（草圣，饮中八仙之一）
+* **[张若虚](https://zh.wikipedia.org/wiki/张若虚)**
+  * _[春江花月夜](https://www.shicile.com/detail/8970297155155)（高中选择性必修上）_：孤篇盖全唐
+  * _[代答闺梦还](https://www.shicile.com/detail/1180046075494)_
+* **[贺知章](https://zh.wikipedia.org/wiki/贺知章)**（饮中八仙之一）
+  * _[咏柳](https://www.shicile.com/detail/6940298887761)（二年级下）_
+  * _[回乡偶书·其一](https://www.shicile.com/detail/6640282196938)（六年级上）_
+  * _[题袁氏别业](https://www.shicile.com/detail/1730139321128)_
+  * _[回乡偶书·其二](https://www.shicile.com/detail/8370075568696)_
+* **[包融](https://zh.wikipedia.org/wiki/包融)**
 
 ### 其它
-* [王绩](poet/wangji.md)
-* [陈子昂](poet/chenziang.md)
-* [宋之问](poet/songzhiwen.md)
-* [王湾](poet/wangwan.md)
-* [张九龄](poet/zhangjiuling.md)
+* **[王绩](https://zh.wikipedia.org/wiki/王绩)**
+  * _[野望](https://www.shicile.com/detail/7010226101193)（八年级上）_
+  * _[秋夜喜遇王处士](https://www.shicile.com/detail/1230226100804)_
+* **[陈子昂](https://zh.wikipedia.org/wiki/陳子昂)**
+  * _[登幽州台歌](https://www.shicile.com/detail/30282661404)（七年级下）_ 
+* **[宋之问](https://zh.wikipedia.org/wiki/宋之问)**
+  * _[渡汉江](https://www.shicile.com/detail/2270094039972)_
+* **[王湾](https://zh.wikipedia.org/wiki/王湾)**
+  * _[次北固山下](https://www.shicile.com/detail/3970279655990)（七年级上）_
+* **[张九龄](https://zh.wikipedia.org/wiki/张九龄)**
+  * _[望月怀远](https://www.shicile.com/detail/1940297520037)_
 
 ## 盛唐
 > 玄宗开元时期-安史之乱结束约50年：繁荣期
 ### 边塞诗派：高岑二王
 > 描写边塞战争和边塞风土人情，以及战争带来的各种矛盾，诗风悲壮，格调雄浑，最足以表现盛唐气象
-* [高适](poet/gaoshi.md)
-* [岑参](poet/censhen.md)
-* [王昌龄](poet/wangchangling.md)
-* [王之涣](poet/wangzhihuan.md)
-* [王翰](poet/wanghan.md)
-* [崔颢](poet/cuihao.md)
-* [李颀](poet/liqi.md)
+* **[高适](https://zh.wikipedia.org/wiki/高适)**
+  * _[别董大·其一](https://www.shicile.com/detail/5260050287197)（四年级上）_
+  * _[燕歌行](https://www.shicile.com/detail/4930298122209)（高中选择性必修中）_
+  * _[别董大·其二](https://www.shicile.com/detail/8300299059310)_
+  * _[除夜作](https://www.shicile.com/detail/5220005297013)_
+  * _[塞上听吹笛](https://www.shicile.com/detail/9150298120653)_
+* **[岑参](https://zh.wikipedia.org/wiki/岑参)**
+  * _[行军九日思长安故园](https://www.shicile.com/detail/640216929740)（七年级上）_
+  * _[逢入京使](https://www.shicile.com/detail/1870297173827)（七年级下）_
+  * _[白雪歌送武判官归京](https://www.shicile.com/detail/9290297140373)（九年级下）_
+  * _[走马川行奉送出师西征](https://www.shicile.com/detail/9010279655601)_
+* **[王昌龄](https://zh.wikipedia.org/wiki/王昌龄)**
+  * _[采莲曲](https://www.shicile.com/detail/4900217366976)（三年级上）_
+  * _[出塞·其一](https://www.shicile.com/detail/340298211290)（四年级上）_
+  * _[芙蓉楼送辛渐](https://www.shicile.com/detail/1690093987457)（四年级下）_
+  * _[从军行·其四](https://www.shicile.com/detail/5340299061644)（五年级下）_
+  * _[出塞·其二](https://www.shicile.com/detail/1790095863215)_
+  * _[闺怨](https://www.shicile.com/detail/3010001007121)_
+* **[王之涣](https://zh.wikipedia.org/wiki/王之涣)**
+  * _[登鹳雀楼](https://www.shicile.com/detail/710075560527)（二年级上）_
+  * _[凉州词·其一](https://www.shicile.com/detail/3550298193396)（五年级下）_
+  * _[送别](https://www.shicile.com/detail/8110001473143)_
+  * _[凉州词·其二](https://www.shicile.com/detail/9960123218862)_
+* **[王翰](https://zh.wikipedia.org/wiki/王翰_(唐朝))**
+  * _[凉州词·其一](https://www.shicile.com/detail/5180298213624)（四年级上）_
+  * _[凉州词·其二](https://www.shicile.com/detail/620218288128)_
+* **[崔颢](https://zh.wikipedia.org/wiki/崔颢)**
+  * _[黄鹤楼](https://www.shicile.com/detail/380219542653)（八年级上）_：眼前有景道不得，崔颢题诗在上头。——李白
+* **[李颀](https://zh.wikipedia.org/wiki/李颀)**
+  * _[古从军行](https://hanyu.baidu.com/shici/detail?from=aladdin&pid=add1e1d80dd14e769720770ebaaab9f6)_
 
 ### 山水田园诗派：王孟韦柳
 > 继承东晋陶渊明的田园派和谢灵运的山水派，以反映田园生活、描绘山水景物为主要内容。
-* [王维](poet/wangwei.md)
-* [孟浩然](poet/menghaoran.md)
-* [韦应物](poet/weiyingwu.md)
-* [柳宗元](poet/liuzongyuan.md)
-* [常建](poet/changjian.md)
+* **[王维](https://zh.wikipedia.org/wiki/王维)**（诗佛）：诗中有画，画中有诗。——苏轼
+  * _[画](https://www.shicile.com/detail/5270299137499)（一年级上）_
+  * _[九月九日忆山东兄弟](https://www.shicile.com/detail/5450284835136)（三年级下）_
+  * _[鹿柴](https://www.shicile.com/detail/4600142891759)（四年级上）_
+  * _[山居秋暝](https://www.shicile.com/detail/9100299158116)（五年级上）_
+  * _[鸟鸣涧](https://www.shicile.com/detail/3140217189981)（五年级下）_
+  * _[送元二使安西](https://www.shicile.com/detail/6610299404353)（六年级下）_
+  * _[竹里馆](https://www.shicile.com/detail/120282781216)（七年级下）_
+  * _[使至塞上](https://www.shicile.com/detail/5380299157338)（八年级上）_
+  * _[山中](https://www.shicile.com/detail/1990246841117)_
+  * _[相思](https://www.shicile.com/detail/3550216165744)_
+  * _[杂诗·其二](https://www.shicile.com/detail/2940045640592)_
+  * _[送别](https://www.shicile.com/detail/2520097416492)_
+  * _[陇西行](https://www.shicile.com/detail/1040216157575)_
+  * _[终南别业](https://www.shicile.com/detail/5920093986679)_
+  * _[观猎](https://www.shicile.com/detail/5710095447374)_
+  * _[汉江临泛](https://www.shicile.com/detail/1010298989679)_
+  * _[终南山](https://www.shicile.com/detail/7770298969451)_
+* **[孟浩然](https://zh.wikipedia.org/wiki/孟浩然)**
+* **[韦应物](https://zh.wikipedia.org/wiki/韦应物)**
+* **[柳宗元](https://zh.wikipedia.org/wiki/柳宗元)**
+* **[常建](https://zh.wikipedia.org/wiki/常建)**
 
 ### 李杜
-* [李白](poet/libai.md)
-* [杜甫](poet/dufu.md)
+> 唐代三绝：李白的诗歌、裴旻的剑舞、张旭的草书
+* **[李白](https://zh.wikipedia.org/wiki/李白)**（诗仙，饮中八仙之一）：昔年有狂客，号尔谪仙人。笔落惊风雨，诗成泣鬼神。——杜甫《寄李十二白二十韵》
+* **[杜甫](https://zh.wikipedia.org/wiki/杜甫)**（诗圣，诗被誉为诗史）
 
 ## 中唐
 > 代宗大历时期-文宗太和时期约70年：继续繁荣期
