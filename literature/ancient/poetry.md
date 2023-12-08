@@ -118,9 +118,18 @@
   * _[汉江临泛](https://www.shicile.com/detail/1010298989679)_
   * _[终南山](https://www.shicile.com/detail/7770298969451)_
 * **[孟浩然](https://zh.wikipedia.org/wiki/孟浩然)**
+  * _[春晓](https://www.shicile.com/detail/4790000007002)（一年级下）_
+  * _[宿建德江](https://www.shicile.com/detail/1270000006224)（六年级上）_
+  * _[过故人庄](https://www.shicile.com/detail/2450297153599)（六年级上）_
+  * _[望洞庭湖赠张丞相](https://www.shicile.com/detail/2720095255986)（八年级下）_
+  * _[早寒江上有怀](https://www.shicile.com/detail/2880094031414)_
 * **[韦应物](https://zh.wikipedia.org/wiki/韦应物)**
+  * _[滁州西涧](https://www.shicile.com/detail/3990096125790)（三年级下）_
 * **[柳宗元](https://zh.wikipedia.org/wiki/柳宗元)**
+  * _[江雪](https://www.shicile.com/detail/2800094824974)（二年级上）_
+  * _[渔翁](https://www.shicile.com/detail/9320096178694)_
 * **[常建](https://zh.wikipedia.org/wiki/常建)**
+  * _[题破山寺后禅院](https://www.shicile.com/detail/8110095166516)（八年级下）_
 
 ### 李杜
 > 唐代三绝：李白的诗歌、裴旻的剑舞、张旭的草书
