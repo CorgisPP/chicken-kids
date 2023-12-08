@@ -368,10 +368,10 @@
 
 # [宋](poetry-s.md)
 
-# [元](literature/ancient/poetry-y.md)
+# [元](poetry-y.md)
 
-# [明清近代](literature/ancient/poetry-mqj.md)
+# [明清近代](poetry-mqj.md)
 
-# [先秦](literature/ancient/poetry-xq.md)
+# [先秦](poetry-xq.md)
 
-# [两汉魏晋南北朝](literature/ancient/poetry-hwjnb.md)
+# [两汉魏晋南北朝](poetry-hwjnb.md)
