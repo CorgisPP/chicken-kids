@@ -2,7 +2,7 @@
 > 
 > 只收录名作篇目，具体诗作内容请参考[古诗文网](https://www.gushiwen.cn)或[诗词乐网](https://www.shicile.com)
 > 
-# 隋唐
+# [隋唐](poetry-st.md)
 > 近体诗初称宫体诗，出现在南朝末期的陈朝，但当时表达儿女情长意境不开阔
 ## 初唐
 > 唐朝建立初期-玄宗先天时期约100年：过渡和创新期
@@ -366,12 +366,12 @@
 * **[林杰](https://baike.baidu.com/item/林杰/1752845?fr=aladdin)**
   * _乞巧（五年级上）_
 
-# 宋
+# [宋](poetry-s.md)
 
-# 元
+# [元](literature/ancient/poetry-y.md)
 
-# 明清近代
+# [明清近代](literature/ancient/poetry-mqj.md)
 
-# 先秦
+# [先秦](literature/ancient/poetry-xq.md)
 
-# 两汉魏晋南北朝
+# [两汉魏晋南北朝](literature/ancient/poetry-hwjnb.md)
