@@ -21,22 +21,23 @@
   * _清平乐·别来春半_
   * _浪淘沙令·帘外雨潺潺_
   * _破阵子·四十年来家国_
+### 其它
 * **[冯延巳](https://zh.wikipedia.org/wiki/冯延巳)**
   * _谒金门·风乍起_
   * _鹊踏枝·谁道闲情抛掷久_
-### 婉约词人
-### 豪放词人
-### 北宋其它
+## 宋
+### 婉约词
+### 豪放词
+### 其它
 > 宋四家：苏轼、黄庭坚、[米芾](https://zh.wikipedia.org/wiki/米芾)、[蔡襄](https://zh.wikipedia.org/wiki/蔡襄)
 * **[王禹偁](https://zh.wikipedia.org/wiki/王禹偁)**
 * **[王安石](https://zh.wikipedia.org/wiki/王安石)**：中国十一世纪的改革家——列宁
 * **[林逋](https://zh.wikipedia.org/wiki/林逋)**
 * **[王观](https://zh.wikipedia.org/wiki/王觀_(宋朝))**
 * **[黄庭坚](https://zh.wikipedia.org/wiki/黃庭堅)**
-* **[贺铸](https://zh.wikipedia.org/wiki/李璟)**
+* **[贺铸](https://zh.wikipedia.org/wiki/贺铸)**
 
-### 南宋其它
-### 宋金末路
+### 诗派
 
 
 
