@@ -1,5 +1,5 @@
 # 中国古代文学四大体裁
-## [诗歌](poetry.md)
+## [诗歌](poetry-st.md)
 ### [隋唐](poetry-st.md)
 ### [宋](poetry-s.md)
 ### [元](literature/ancient/poetry-y.md)
