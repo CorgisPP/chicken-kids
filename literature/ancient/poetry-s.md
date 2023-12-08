@@ -4,7 +4,7 @@
 > 
 # [唐](poetry-t.md)
 # [宋](poetry-s.md)
-> 始于南梁，形成于唐，定型于五代十国，盛于宋。
+> 词始于南梁，形成于唐，定型于五代十国，盛于宋。
 # [元](poetry-y.md)
 # [明清](poetry-mq.md)
 # [先秦](poetry-xq.md)
