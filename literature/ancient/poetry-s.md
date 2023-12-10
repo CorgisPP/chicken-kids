@@ -28,7 +28,7 @@
 ## 宋
 ### 婉约词
 > 婉约即婉转含蓄，特点主要是内容侧重儿女风情，结构深细缜密，音律婉转和谐，语言圆润清丽
-* **[柳永l](https://zh.wikipedia.org/wiki/柳永)**
+* **[柳永](https://zh.wikipedia.org/wiki/柳永)**
   * _望海潮（高中选择性必修下）_
   * _蝶恋花_
   * _雨霖铃_
@@ -50,6 +50,8 @@
   * _玉楼春_
   * _踏莎行_
   * _蝶恋花_
+* **[王观](https://zh.wikipedia.org/wiki/王觀_(宋朝))**
+  * _卜算子·送鲍浩然之浙东（六年级下）_
 * **[秦观](https://zh.wikipedia.org/wiki/秦观)**
   * _行香子（九年级上）_
   * _鹊桥仙（七年级上，高中必修上）_
@@ -103,6 +105,9 @@
   * _蝶恋花·春景_
   * _定风波·南海_
   * _水龙吟·次韵_
+* **[贺铸](https://zh.wikipedia.org/wiki/贺铸)**
+  * _青玉案_
+  * _捣练子_
 * **[岳飞](https://zh.wikipedia.org/wiki/岳飞)**
   * _小重山_
   * _满江红·写怀_
@@ -140,6 +145,13 @@
   * _唐多令_
 * **[刘克庄](https://zh.wikipedia.org/wiki/刘克庄)**
   * _贺新郎（高中课标）_
+* **[蒋捷](https://zh.wikipedia.org/wiki/蒋捷)**
+  * _虞美人·听雨_
+  * _一剪梅·舟过吴江_
+* **[文天祥](https://zh.wikipedia.org/wiki/文天祥)**
+  * _过零丁洋（九年级下）_
+  * _南安军（九年级下）_
+  * _扬子江_
 
 ### 其它
 > 宋四家：苏轼、黄庭坚、[米芾](https://zh.wikipedia.org/wiki/米芾)、[蔡襄](https://zh.wikipedia.org/wiki/蔡襄)
@@ -154,21 +166,44 @@
   * _桂枝香·金陵怀古（高中必修下）_
 * **[林逋](https://zh.wikipedia.org/wiki/林逋)**
   * _山园小梅·其一_
-* **[王观](https://zh.wikipedia.org/wiki/王觀_(宋朝))**
-  * _卜算子·送鲍浩然之浙东（六年级下）_
+* **[朱熹](https://zh.wikipedia.org/wiki/朱熹)**
+  * _观书有感·其一（五年级上）_
+  * _观书有感·其二（五年级上）_
+  * _春日（六年级上）_
+* **[林升](https://zh.wikipedia.org/wiki/林升)**
+  * _题临安邸（五年级上）_
+* **[元好问](https://zh.wikipedia.org/wiki/元好问)**（北方文雄）
+  * _摸鱼儿·雁丘词_
+* **[雷震](https://baike.baidu.com/item/雷震/4143421?fromModule=lemma_sense-layer#viewPageContent)**
+  * _村晚（五年级下）_
+* **[卢钺](https://baike.baidu.com/item/卢梅坡/9579608?fromtitle=卢钺&fromid=10787776&fr=aladdin)**
+  * _雪梅（四年级上）_
+
+### 诗派
 * **[黄庭坚](https://zh.wikipedia.org/wiki/黃庭堅)**
   * _清平乐（六年级下）_
   * _登快阁（高中选择性必修下）_
   * _寄黄几复_
-* **[贺铸](https://zh.wikipedia.org/wiki/贺铸)**
-  * _青玉案_
-  * _捣练子_
-
-### 诗派
-
-
-
-
+* **[曾几](https://zh.wikipedia.org/wiki/曾幾)**
+  * _三衢道中（三年级下）_
+* **[杨万里](https://zh.wikipedia.org/wiki/楊萬里_(南宋))**
+  * _小池（一年级下）_
+  * _晓出净慈寺送林子方（二年级下）_
+  * _宿新市徐公店（四年级下）_
+  * _稚子弄冰（五年级下）_
+  * _过松源晨炊漆公店·其五（七年级下）_
+  * _插秧歌（高中必修上）_
+  * _闲居初夏午睡起·其一_
+* **[范成大](https://zh.wikipedia.org/wiki/范成大)**
+  * _四时田园杂兴·其二十五（四年级下）_
+  * _四时田园杂兴·其三十一（五年级下）_
+* **[赵师秀](https://zh.wikipedia.org/wiki/赵师秀)**
+  * _约客（七年级下）_
+* **[翁卷](https://zh.wikipedia.org/wiki/翁卷)**
+  * _乡村四月（五年级下）_
+* **[叶绍翁](https://zh.wikipedia.org/wiki/叶绍翁)**
+  * _夜书所见（三年级上）_
+  * _游园不值（六年级下）_
 
 # [元](poetry-y.md)
 # [明清](poetry-mq.md)
