@@ -205,7 +205,6 @@
   * _夜书所见（三年级上）_
   * _游园不值（六年级下）_
 
-# [元](poetry-y.md)
-# [明清](poetry-mq.md)
+# [元明清](poetry-ymq.md)
 # [先秦](poetry-xq.md)
 # [两汉魏晋南北朝](poetry-hwj.md)
