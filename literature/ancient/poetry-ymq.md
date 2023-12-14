@@ -11,7 +11,7 @@
 * **[马致远](https://zh.wikipedia.org/wiki/马致远)**
   * _天净沙·秋思（七年级上）_
 * **[王实甫](https://zh.wikipedia.org/wiki/王实甫)**
-  * _长亭送别【正宫】【端正好】（高中课标）_
+  * _长亭送别（高中课标）_
 * **[张养浩](https://zh.wikipedia.org/wiki/张养浩)**
   * _山坡羊·潼关怀古（九年级下）_
   * _山坡羊·骊山怀古（九年级下）_
@@ -24,6 +24,7 @@
   * _石灰吟（六年级下）_
 * **[唐寅](https://zh.wikipedia.org/wiki/唐寅)**
   * _画鸡（一年级下）_
+  * _桃花庵歌_
 * **[王磐](https://baike.baidu.com/link?url=EKHYO5wS5EzXpF5SGgsJF8sT84C6P15DZMxfjoU1BFXgot4h6J7cNQ4umj21TydBDUiY9aqLx57fqGTPhSRDf4JkwvsBiE-l7ptdeEZzzXm)**
   * _朝天子·咏喇叭（九年级下）_
 * **[汤显祖](https://zh.wikipedia.org/wiki/汤显祖)**
@@ -37,34 +38,41 @@
 * **[纳兰性德](https://zh.wikipedia.org/wiki/纳兰性德)**
   * _长相思（五年级上）_
   * _浣溪沙·身向云山那畔行（九年级下）_
+  * _浣溪沙·谁念西风独自凉_
   * _木兰花·拟古决绝词柬友_
-  * _浣溪沙·谁念西风_
 * **[袁枚](https://zh.wikipedia.org/wiki/袁枚)**
   * _所见（三年级上）_
 * **[郑燮](https://zh.wikipedia.org/wiki/郑燮)**
   * _竹石（六年级下）_
   * _潍县署中画竹呈年伯包大中丞括_
 * **[龚自珍](https://zh.wikipedia.org/wiki/龚自珍)**
-  * _己亥杂诗（五年级上）_
+  * _己亥杂诗·其二百二十（五年级上）_
   * _己亥杂诗·其五（七年级下）_
 * **[高鼎](https://zh.wikipedia.org/wiki/高鼎)**
   * _村居（二年级下）_
 * **[谭嗣同](https://zh.wikipedia.org/wiki/谭嗣同)**
   * _潼关（七年级上）_
+  * _狱中题壁_
 
 ## 近
 * **[秋瑾](https://zh.wikipedia.org/wiki/秋瑾)**
   * _满江红（九年级下）_
 * **[鲁迅](https://zh.wikipedia.org/wiki/鲁迅)**
   * _自题小像_
+  * _自嘲_
 * **[毛泽东](https://zh.wikipedia.org/wiki/毛泽东)**
   * _卜算子·咏梅（四年级下）_
+  * _七律·长征（六年级上）_
   * _菩萨蛮·大柏地（六年级上）_
   * _沁园春·雪（九年级上）_
   * _沁园春·长沙（高中必修上）_
   * _七律·人民解放军占领南京_
-  * _清平乐·六盘山_
+  * _浪淘沙·北戴河_
   * _忆秦娥·娄山关_
+  * _清平乐·六盘山_
+  * _采桑子·重阳_
+  * _水调歌头·游泳_
+  * _水调歌头·重上井冈山_
 * **[陈毅](https://zh.wikipedia.org/wiki/陈毅)**
   * _梅岭三章（九年级下）_
 
